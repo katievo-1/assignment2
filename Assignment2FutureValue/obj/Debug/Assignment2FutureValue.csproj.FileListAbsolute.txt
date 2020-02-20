@@ -1,0 +1,9 @@
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\bin\Debug\Assignment2FutureValue.exe.config
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\bin\Debug\Assignment2FutureValue.exe
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\bin\Debug\Assignment2FutureValue.pdb
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.csprojAssemblyReference.cache
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.FrmFutureValue.resources
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.Properties.Resources.resources
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.csproj.GenerateResource.cache
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.exe
+C:\Users\Kaitlin\source\repos\Assignment2FutureValue\Assignment2FutureValue\obj\Debug\Assignment2FutureValue.pdb
